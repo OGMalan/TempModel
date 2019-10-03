@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Centroid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GID_0": "ZAF", "NAME_0": "South Africa", "GID_1": "ZAF.9_1", "NAME_1": "Western Cape", "VARNAME_1": "Wes-Kaap", "NL_NAME_1": null, "TYPE_1": "Provinsie", "ENGTYPE_1": "Province", "CC_1": "WC", "HASC_1": "ZA.WC" }, "geometry": { "type": "Point", "coordinates": [ 19.526299397498033, -33.661193817296173 ] } }
+]
+}
